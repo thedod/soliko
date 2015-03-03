@@ -4,7 +4,7 @@ It's still a single page, but sometimes it's easier to maintain it this way.
 Sections are sorted by title (made sense in this example), but if you want them sorted by filename,
 Sort sections by `url` instead of `title`:
 
-```
+```diff
 diff --git a/index.md b/index.md
 index e05c5db..5aa1128 100644
 --- a/index.md
