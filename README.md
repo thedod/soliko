@@ -1,3 +1,8 @@
+The `ensemble` branch allows splitting the text into `_sections/*.md`.
+It's still a single page, but sometimes it's easier to maintain it this way.
+
+----
+
 # סוליקו
 
 A Hebrew (rtl) fork of

@@ -1,9 +1,13 @@
 # Site settings
-title: סוליקו &mdash; תבנית ג'קיל לדף בודד
-tag_text: סוליקו 
-description: RTL version of @chibicode's solo Jekyll theme
+title: תיקון ושיפוץ חרוזים
+tag_text: תיקון ושיפוץ חרוזים
+description: בבית הלקוח? לא להגזים
 
 # Build settings
 markdown: kramdown
 
 exclude: ["README.md"]
+
+collections:
+  sections:
+    output: false
