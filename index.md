@@ -17,7 +17,7 @@ layout: default-rtl
 * דפי נחיתה
 * ראו רעיונות נוספים [כאן](http://solo.chibi.io) (התעייפתי מלתרגם את ההמשך &#128521;).
 
-קוד המקור של דף זה נראה [ככה](https://github.com/thedod/soliko/blob/gh-pages/index.md).
+קוד המקור של דף זה נראה [ככה](https://raw.githubusercontent.com/thedod/soliko/gh-pages/index.md).
 
 <pre>
 Based on <a href="http://solo.chibi.io">Solo</a> by <a href="https://github.com">@Chibicode</a>.
