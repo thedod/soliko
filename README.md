@@ -2,7 +2,7 @@ The `ensemble` branch allows splitting the text into `_sections/*.md`.
 It's still a single page, but sometimes it's easier to maintain it this way.
 
 Sections are sorted by title (made sense in this example), but if you want them sorted by filename,
-Sort sections by `url` instead of `title`:
+sort sections by `url` instead of `title`:
 
 ```diff
 diff --git a/index.md b/index.md
