@@ -25,5 +25,5 @@ layout: default-rtl
 
 ----
 
-מוגש בחסות [סוליקו](http://thedod.github.io/soliko/) &mdash; תבנית ג'קיל עברית לדף בודד (ענף `ensemble`).
+מוגש בחסות [סוליקו](http://thedod.github.io/soliko/) &mdash; תבנית ג'קיל עברית לדף בודד (ענף [ensemble](https://github.com/thedod/soliko/tree/ensemble/#readme)).
 
