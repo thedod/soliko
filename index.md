@@ -6,7 +6,7 @@ layout: default-rtl
 זו התאמה של [Solo](http://solo.chibi.io) לכיוון כתיבה עברי וגופן [אלף](http://alef.hagilda.com/). חוץ מזה &mdash; לא נגענו, לא שינינו.
 
 מחפשים תבנית ג'קיל סטנדרטית יותר? נסו את
-[Shiori](http://github.com/ellekasai/shiori),
+[Shiori](http://ellekasai.github.io/shiori/),
 המבוססת על [בוטסטראפ](http://getbootstrap.com/)
 (עוד אין בעברית, אבל זה חמוד כחתולול &#128571;).
 
