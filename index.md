@@ -12,12 +12,14 @@ layout: default-rtl
 
 ## סוליקו שימושית עבור ...
 
-
 * דפי "אודות"
 * דפי נחיתה
 * ראו רעיונות נוספים [כאן](http://solo.chibi.io) (התעייפתי מלתרגם את ההמשך &#128521;).
 
 קוד המקור של דף זה נראה [ככה](https://raw.githubusercontent.com/thedod/soliko/gh-pages/index.md).
+
+ראו גם ענף [ensemble](https://github.com/thedod/soliko/tree/ensemble/#readme)
+להפקת דף בודד מאוסף קבצים ([דוגמה](https://swatwt.com/rhymeright/)).
 
 <pre>
 Based on <a href="http://solo.chibi.io">Solo</a> by <a href="https://github.com">@Chibicode</a>.
